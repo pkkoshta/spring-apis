@@ -1,2 +1,10 @@
-rbezawada@charterglobal.com
-Eshk@1972
+1. first for commit to git
+   git init
+   git add .
+   git commit -m ""
+   git push -u origin branch_name
+   
+3. for rising pr
+   1. create a new branch
+   2. push code to demo branch
+   3. and rise the pull request
